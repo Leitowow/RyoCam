@@ -1,0 +1,4 @@
+{
+  "payload": "{\"download\":{\"sha256\":\"b93203edc01004f38cbe581afea47eabfd080e2c8584abb65aa0b51d5d81bfff\",\"size\":46695099,\"url\":\"https://github.com/Leitowow/RyoCam/releases/download/v0.1.0/RyoCam-0.1.0-win64.zip\"},\"notes\":{\"en\":\"First closed-beta baseline.\\n- System-level virtual camera\\n- GPU person segmentation & background effects\\n- Beauty / auto-framing / identity-fusion super beauty\\n- Fuel-code beta licensing\\n- Built-in update checking\",\"zh\":\"首个内测基线版本。\\n- 系统级虚拟摄像头\\n- GPU 抠图与背景处理\\n- 美颜 / 自动取景 / 身份融合超级美颜\\n- 加油码内测授权\\n- 内置版本更新检查\"},\"published\":\"2026-06-12\",\"version\":\"0.1.0\"}",
+  "sig": "z0ftQuuYjmeVEd4p4Z8bryEUy+B4o/CxkkJQDq4If8vE2soe/J+Fht9v/iRkPuPlL2BaykJa11T3Y+hTKPj1Ag=="
+}
